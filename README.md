@@ -1,13 +1,17 @@
 # senseshift-face-pcb
-A custom pcb for the X6 Facial Haptic Interface (Senseshift)
+A custom pcb (and case!) for the X6 Facial Haptic Interface (Senseshift)
 
 [spec here](https://github.com/senseshift/senseshift-hardware/tree/main/Devices/Face%20Interface/ESP32%20+%20Integrated%20PWM)
 
-gerber file and .epro file in [releases here](https://github.com/Cattn/senseshift-face-pcb/releases/latest)
+gerber file, .epro, stl file are all in [releases here](https://github.com/Cattn/senseshift-face-pcb/releases/latest)
 
 ## Disclaimer:
 
 I am an idiot. I haven't tested these yet, so there is a chance they don't work. I'll update this when I verify them.
+
+## Case Image
+
+<img src="https://raw.githubusercontent.com/Cattn/senseshift-face-pcb/refs/heads/main/images/case_photo.png">
 
 ## PCB Images
 ### Front
